@@ -1,188 +1,78 @@
-<div align="center">
-
-# Hey, I'm Rohan 👋
-
-### Engineering student building things that are actually useful.
-
-<p>
-  <a href="https://github.com/ROHAN-M-V">
-    <img src="https://komarev.com/ghpvc/?username=ROHAN-M-V&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-</div>
+<h1 >Hey, I'm Rohan 😁</h1>
+<h3 align="center">Engineering student • occasional debugger of my own life</h3>
 
 ---
 
-## About Me
+# 💫 About Me:
 
-I'm an engineering student who likes building products, experimenting with ideas, and shipping projects instead of letting them sit in a notes app.
+Started with curiosity, stayed because making things from scratch feels oddly satisfying.
 
-Lately, I’ve been exploring **full-stack development, backend systems, cloud deployment, and AI-powered applications**.
+Most days you'll find me somewhere between writing backend APIs, tweaking frontend pixels for way too long, breaking deployments, fixing them, and then pretending it was intentional.
 
-Currently building **ThinkQ** — a personalized AI-powered quiz platform.
+I enjoy building things that solve actual problems — whether that's web apps, AI-powered ideas, automation experiments, or just random "what if I build this?" moments at 2 AM.
 
----
+Currently exploring:
+- full-stack development
+- backend architecture
+- cloud deployment
+- AI integrations
+- startup/product ideas
 
-## What I'm Working On
-
-### ThinkQ
-**AI-powered personalized quiz platform**
-
-Building a quiz platform using the **MERN stack + FastAPI** that adapts content based on users and learning behavior.
-
-**Focus areas:**
-- Personalized quiz generation
-- AI-assisted learning workflows
-- Backend APIs
-- Scalable full-stack architecture
+I like code that works, interfaces that feel clean, and projects that teach me something new.
 
 ---
 
-## Featured Projects
+## 🌐 Socials:
 
-### ThinkQ
-AI-powered adaptive quiz platform built with MERN + FastAPI.
-
----
-
-### Feedback Summarizer App
-Built a **Python + FastAPI** application that:
-- stores user feedback
-- summarizes responses
-- analyzes sentiment
-- calculates average ratings
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-vernekar-131595284)
 
 ---
 
-### ToDo Web Application
-Full-stack task manager built using:
-- JavaScript
-- Node.js
-- MongoDB
+# 💻 Tech Stack:
 
-Features:
-- CRUD task management
-- persistent storage
-- clean web UI
-
----
-
-### Portfolio Website
-Personal portfolio built with:
-- HTML
-- CSS
-- React
-
-Used to showcase:
-- projects
-- achievements
-- technical work
-
----
-
-### Restaurant & Cafe Landing Pages
-Designed and developed responsive landing pages for restaurants/cafes focused on:
-- modern UI
-- mobile responsiveness
-- conversion-focused layouts
-- deployment workflows
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## Tech Stack
+# 📊 GitHub Stats:
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ROHAN-M-V&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-### Frameworks / Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,fastapi,vite" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN-M-V&theme=tokyonight&hide_border=true)
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Cloud / Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,render" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN-M-V&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-## GitHub Stats
+# 📈 Activity:
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ROHAN-M-V&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN-M-V&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ROHAN-M-V&theme=tokyo-night&hide_border=true)
 
 ---
-
-## Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ROHAN-M-V&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHAN-M-V&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ROHAN-M-V&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## Currently Exploring
-
-- scalable backend architecture
-- AI integrations in web apps
-- better system design
-- cloud deployment workflows
-- product building / startup experimentation
-
----
-
-## Random Dev Stuff
 
 ```cpp
-while(alive) {
-    learn();
-    build();
-    debug();
-    repeat();
+while (Still_alive && still_in_college) {
+    surviveExams();
+    writeCodeInsteadOfNotes();
+    turnCoffeeIntoProjects();
+    debugLifeChoices();
 }
