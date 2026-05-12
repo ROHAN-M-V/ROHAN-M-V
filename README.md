@@ -1,7 +1,4 @@
 <h1 >Hey, I'm Rohan 😁</h1>
-<h3 align="center">Engineering student • occasional debugger of my own life</h3>
-
----
 
 # 💫 About Me:
 
@@ -63,11 +60,6 @@ I like code that works, interfaces that feel clean, and projects that teach me s
 
 ---
 
-# 📈 Activity:
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=ROHAN-M-V&theme=tokyo-night&hide_border=true)
-
----
 
 ```cpp
 while (Still_alive && still_in_college) {
