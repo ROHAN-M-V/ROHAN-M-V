@@ -50,15 +50,7 @@ I like code that works, interfaces that feel clean, and projects that teach me s
 
 ---
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ROHAN-M-V&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ROHAN-M-V&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN-M-V&theme=tokyonight&hide_border=true&layout=compact)
-
----
 
 
 ```cpp
