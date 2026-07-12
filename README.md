@@ -1,4 +1,4 @@
-<h1 >Hey, I'm Rohan 😁</h1>
+<h1 >Hey, I'm Rohan </h1>
 
 # 💫 About Me:
 
