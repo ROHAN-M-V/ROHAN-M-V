@@ -1,4 +1,14 @@
-<h1 >Hey, I'm Rohan </h1>
+<!-- ======================================================= -->
+<!--                    HERO / HEADER                        -->
+<!-- ======================================================= -->
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Hey,%20I'm%20Rohan%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=ECE+Student+@+NIT+Goa;I+Love+Building+Tech+from+scratch.;Competitive+Programming+%2B+Web+Dev+%2bOpen+Source;" />
+
+<br/>
 
 # 💫 About Me:
 
@@ -53,10 +63,62 @@ I like code that works, interfaces that feel clean, and projects that teach me s
 
 
 
+
+
+
+
+
+
+*
+
+</td> 
+</tr> 
+</table>
+
+---
+
+<!-- ======================================================= --> 
+<!-- GITHUB ANALYTICS --> 
+<!-- ======================================================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ROHAN-M-V&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=ROHAN-M-V&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA"/>
+
+</div> 
+<br/> 
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHAN-M-V&bg_color=00000000&color=94A3B8&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="95%"/> 
+</div>
+
+---
+
+<!-- ======================================================= --> 
+<!-- CONTRIBUTION SNAKE --> 
+<!-- ======================================================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROHAN-M-V/ROHAN-M-V/output/github-contribution-grid-snake-dark.svg"> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROHAN-M-V/ROHAN-M-V/output/github-contribution-grid-snake.svg"> 
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ROHAN-M-V/ROHAN-M-V/output/github-contribution-grid-snake.svg" width="95%"> 
+  </picture> 
+</div>
+
+
+
 ```cpp
-while (Still_alive && still_in_college) {
-    surviveExams();
-    writeCodeInsteadOfNotes();
-    turnCoffeeIntoProjects();
-    debugLifeChoices();
+while (alive && still_learning) {
+    solveProblems();
+    buildProjects();
+    breakSomething();
+    debugIt();
+    learnWhyItBroke();
+    repeat();
 }
