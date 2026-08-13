@@ -69,13 +69,11 @@ I like code that works, interfaces that feel clean, and projects that teach me s
 
 
 
-*
 
 </td> 
 </tr> 
 </table>
 
----
 
 <!-- ======================================================= --> 
 <!-- GITHUB ANALYTICS --> 
@@ -84,17 +82,13 @@ I like code that works, interfaces that feel clean, and projects that teach me s
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img height="180em" src="https://streak-stats.demolab.com?user=ROHAN-M-V&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&v=2"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ROHAN-M-V&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ROHAN-M-V&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA"/>
-
-</div> 
-<br/> 
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHAN-M-V&bg_color=00000000&color=94A3B8&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="95%"/> 
 </div>
-
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHAN-M-V&bg_color=00000000&color=94A3B8&line=3B82F6&point=60A5FA&area=true&hide_border=true&v=3" width="100%" />
+</div>
 ---
 
 <!-- ======================================================= --> 
