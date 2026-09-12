@@ -86,8 +86,7 @@ I like code that works, interfaces that feel clean, and projects that teach me s
 
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHAN-M-V&bg_color=00000000&color=94A3B8&line=3B82F6&point=60A5FA&area=true&hide_border=true&v=3" width="100%" />
+
 </div>
 ---
 
