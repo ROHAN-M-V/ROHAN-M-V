@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Hey,%20I'm%20Rohan%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=ECE+Student+@+NIT+Goa;I+Love+Building+Tech+from+scratch.;Competitive+Programming+%2B+Web+Dev+%2bOpen+Source;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=ECE+Sophomore+@+NIT+Goa;I+Love+Building+thi gs+from+scratch.;" />
 
 <br/>
 
